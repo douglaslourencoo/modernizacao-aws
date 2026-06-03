@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy
+great_expectations
+scipy
