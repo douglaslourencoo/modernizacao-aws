@@ -1,0 +1,15 @@
+[theme]
+# Cor principal de destaque (Botões, abas selecionadas e links)
+primaryColor = "#2563EB"
+
+# Cor de fundo do site (Um cinza bem clarinho e moderno, estilo painel de nuvem)
+backgroundColor = "#F8FAFC"
+
+# Cor de fundo dos blocos de texto e caixas de digitação
+secondaryBackgroundColor = "#FFFFFF"
+
+# Cor das letras e textos principais
+textColor = "#1E293B"
+
+# Fonte elegante usada em sistemas modernos
+font = "sans serif"

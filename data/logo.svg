@@ -1,0 +1,14 @@
+<svg xmlns="http://w3.org" viewBox="0 0 500 120" width="100%" height="100%">
+  <!-- Ícone de Nuvem Moderna com Barras de Dados -->
+  <g transform="translate(10, 10)">
+    <path d="M40,75 C25,75 15,65 15,50 C15,36 26,26 40,25 C45,12 58,5 72,5 C88,5 101,16 104,30 C115,30 125,40 125,52 C125,65 115,75 100,75 Z" fill="#2563EB" opacity="0.85"/>
+    <path d="M55,75 C43,75 35,67 35,55 C35,44 44,36 55,35 C59,25 70,19 81,19 C94,19 105,28 107,40 C116,40 124,48 124,58 C124,69 116,75 105,75 Z" fill="#10B981" opacity="0.75"/>
+    <!-- Barras de Gráfico sobrepostas -->
+    <rect x="55" y="45" width="6" height="20" rx="2" fill="#FFFFFF"/>
+    <rect x="67" y="35" width="6" height="30" rx="2" fill="#FFFFFF"/>
+    <rect x="79" y="40" width="6" height="25" rx="2" fill="#FFFFFF"/>
+  </g>
+  <!-- Texto Institucional da Empresa Fake -->
+  <text x="150" y="60" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#1E293B">Cloud<tspan fill="#2563EB">Metrics</tspan></text>
+  <text x="152" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#64748B" letter-spacing="4">ANALYTICS HUB</text>
+</svg>
